@@ -11,6 +11,7 @@ public class HelloWorld {
 		person.myName = "David Lazenby";
 		
 		System.out.println("Hello " + person.myName);
+		System.out.println("Hello " + person.myName);
 
 	}
 
