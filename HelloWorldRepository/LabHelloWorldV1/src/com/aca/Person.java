@@ -10,5 +10,5 @@ package com.aca;
 */
 public class Person {
 
-	public String myName = "Daniel Lazenby";
+	public String myName = "Nakisha Maltbia";
 }
