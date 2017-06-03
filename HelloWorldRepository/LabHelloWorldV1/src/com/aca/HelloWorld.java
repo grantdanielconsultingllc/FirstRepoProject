@@ -13,6 +13,7 @@ public class HelloWorld {
 		person2.myName = "Andrew White";
 		
 		System.out.println("Hello " + person.myName);
+		System.out.println("Hello " + person.myName);
 
 	}
 
