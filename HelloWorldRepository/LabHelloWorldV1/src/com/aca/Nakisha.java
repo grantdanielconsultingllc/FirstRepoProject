@@ -3,8 +3,13 @@ package com.aca;
 public class Nakisha {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		new Nakisha().start();
+				
+	}
 
+	private void start() {
+		System.out.println("I am in my new program....");
+		
 	}
 
 }
